@@ -7,7 +7,7 @@ This repository provides PowerShell scripts for automating various tasks in Azur
 - **`moveWorkItemsAfterDeploy.ps1: Moves work items post-deployment based on their status.
 - **`removeRetentionLeases.ps1: Removes old retention leases to free up resources and remove unused pipelines.
 
-## `Getting Started
+## Getting Started
 
 ### Clone the repository:
 
